@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.env
+.vscode/
+*.log
+
+# Data (include only if you want to store datasets in repo)
+# archive (1)/
