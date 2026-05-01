@@ -57,6 +57,7 @@ This system uses machine learning-based recommendation techniques to provide per
 ## ⚙️ How to Run the Project Locally
 
 ### 1. Prerequisites
+- Download dataset from Kaggle
 - Python 3.8 or higher installed  
 
 ---
